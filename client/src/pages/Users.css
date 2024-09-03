@@ -1,0 +1,31 @@
+.users{
+    font-size:10px;
+
+}
+.users .users-item{
+    border:3px solid lightgrey;
+    padding: 25px;
+    margin-bottom: 10px;
+    border-radius: 8px;
+    background: rgb(210,225,237);
+}
+.users .descr{
+    font-size: 20px;
+    color:slategray;
+}
+.selection{
+    display: flex;
+    flex-direction: row;
+    font-size: 20px;
+    padding: 20px;
+}
+.drop-down{
+    padding-left:20px;
+ 
+}
+.drop-down-value{
+    width:30px;
+}
+.title{
+    font-size: 25px;
+}
